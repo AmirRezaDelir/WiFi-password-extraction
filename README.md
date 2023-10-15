@@ -3,11 +3,7 @@
 <body>
 <h1 align="center">📶 WiFi password extraction with Python 📶</h1>
 <h2 lid="ltr">استخراج رمز وای فای با پایتون</h2>
-<ul>
-	<li><p dir="ltr">Please note that the user is responsible for using this Script.</p></li>
-</ul>
-<ul><li>لطفا توجه داشته باشید که کاربر مسئول استفاده از این اسکریپت است.</li></ul>
-<h1></h1>
+
 <p>این کتابخانه ها باید نصب شوند</p>
 <p>Libraries need to be installed</p>
 
